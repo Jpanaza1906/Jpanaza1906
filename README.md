@@ -82,6 +82,15 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="60"/>](https://aws.amazon.com/)
 [<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" width="60"/>](https://cloud.google.com/)
 
+<!-- Contact info !-->
+
+<p align="center" > 
+<strong>
+  Contact
+</strong>
+</p>
+
+josepanaza@gmail.com
 
 
 <!--
