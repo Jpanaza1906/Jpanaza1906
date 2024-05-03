@@ -42,6 +42,7 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
   Containers and orchestration
 </strong>
 </p>
+
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="60"/>](https://www.docker.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="60"/>](https://kubernetes.io/docs/concepts/overview/)
 
