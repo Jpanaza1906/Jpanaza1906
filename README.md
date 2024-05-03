@@ -19,7 +19,7 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
 </strong>
 </p>
 
-[![Java](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.pngenlace_a_la_imagen_de_java)]([enlace_al_recurso_de_java](https://www.java.com/en/))
+[![Java](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)]((https://www.java.com/en/))
 [![Go]([enlace_a_la_imagen_de_go](https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png))]([enlace_al_recurso_de_go](https://go.dev/))
 [![JavaScript]([enlace_a_la_imagen_de_js](https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png))]([enlace_al_recurso_de_js](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 
