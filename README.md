@@ -35,6 +35,28 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
 [<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" width="60"/>](https://www.oracle.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="60"/>](https://www.mysql.com/)
 
+<!-- API Frameworks !-->
+
+<p align="center" > 
+<strong>
+  API Frameworks
+</strong>
+</p>
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="60"/>](https://nodejs.org/en)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flask-horizontal.png" width="60"/>](https://flask.palletsprojects.com/en/3.0.x/)
+
+<!-- Frontend Frameworks !-->
+
+<p align="center" > 
+<strong>
+  Frontend Frameworks
+</strong>
+</p>
+
+[<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="60"/>](https://es.react.dev/)
+[<img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" width="60"/>](https://vuejs.org/)
+
 <!-- Containers and orchestration !-->
 
 <p align="center" > 
