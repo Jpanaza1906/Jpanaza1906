@@ -1,7 +1,8 @@
-<p align="center" style> 
+<div align="center">
   <h1>Hola, Hello 👋 <br>I'm José David Panaza Batres</h1>
-</p>
-<p align="center" style> 
+</div>
+
+<p align="center" > 
 <strong>
   About me
 </strong>
