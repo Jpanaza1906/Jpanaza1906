@@ -1,6 +1,6 @@
-<center>
-  <h1>Hola, Hello 👋. <br>I'm José David Panaza Batres</h1>
-</center>
+<p align="center" style> 
+  <h1>Hola, Hello 👋 <br>I'm José David Panaza Batres</h1>
+</p>
 <p align="center" style> 
 <strong>
   About me
