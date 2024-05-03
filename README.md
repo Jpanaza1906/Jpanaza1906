@@ -1,5 +1,6 @@
-# Hola, Hello 👋. I'm José David Panaza Batres
-
+<center>
+# Hola, Hello 👋. <br>I'm José David Panaza Batres
+</center>
 <p align="center" style> 
 <strong>
   About me
