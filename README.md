@@ -1,5 +1,5 @@
 <center>
-# Hola, Hello 👋. <br>I'm José David Panaza Batres
+  <h1>Hola, Hello 👋. <br>I'm José David Panaza Batres</h1>
 </center>
 <p align="center" style> 
 <strong>
