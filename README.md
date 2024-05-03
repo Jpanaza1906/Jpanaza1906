@@ -19,11 +19,42 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
 </strong>
 </p>
 
-[<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="80"/>](https://www.java.com/es/)
-[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="80"/>](https://go.dev/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80"/>](https://www.python.org/)
+[<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="60"/>](https://www.java.com/es/)
+[<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="60"/>](https://go.dev/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="60"/>](https://www.python.org/)
 
+<!-- Databases !-->
+
+<p align="center" > 
+<strong>
+  Databases
+</strong>
+</p>
+
+[<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" width="60"/>](https://www.oracle.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="60"/>](https://www.mysql.com/)
+
+<!-- Containers and orchestration !-->
+
+<p align="center" > 
+<strong>
+  Containers and orchestration
+</strong>
+</p>
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="60"/>](https://www.docker.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="60"/>](https://kubernetes.io/docs/concepts/overview/)
+
+<!-- Cloud platforms !-->
+
+<p align="center" > 
+<strong>
+  Cloud Platforms
+</strong>
+</p>
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="60"/>](https://aws.amazon.com/)
+[<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" width="60"/>](https://cloud.google.com/)
 
 
 
