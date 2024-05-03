@@ -55,7 +55,7 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
 </p>
 
 [<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="60"/>](https://es.react.dev/)
-[<img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" width="60"/>](https://vuejs.org/)
+[<img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="60"/>](https://vuejs.org/)
 
 <!-- Containers and orchestration !-->
 
