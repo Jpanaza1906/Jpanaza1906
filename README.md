@@ -44,7 +44,7 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
 </p>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="60"/>](https://nodejs.org/en)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flask-horizontal.png" width="60"/>](https://flask.palletsprojects.com/en/3.0.x/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flask-horizontal.png" width="80"/>](https://flask.palletsprojects.com/en/3.0.x/)
 
 <!-- Frontend Frameworks !-->
 
