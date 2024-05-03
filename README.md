@@ -22,6 +22,7 @@ As a junior programmer, I am enthusiastic about expanding my skills and knowledg
 [<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="80"/>](https://www.java.com/es/)
 [<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="80"/>](https://go.dev/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80"/>](https://www.python.org/)
 
 
 
